@@ -13,7 +13,7 @@
 * Include the following files
 * README.md
 * .gitignore
-* .eslint
+* .eslintignore
 * .eslintrc
 * .package.json
 * Add a test and lint script to your package.json
