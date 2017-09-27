@@ -1,0 +1,30 @@
+{
+  "name": "lab-03-fs-async",
+  "version": "1.0.0",
+  "description": "![cf](https://i.imgur.com/7v5ASc8.png) lab-03-fs-readfile ======",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "expect": "^21.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truecounterfeit/lab-03-fs-async.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/truecounterfeit/lab-03-fs-async/issues"
+  },
+  "homepage": "https://github.com/truecounterfeit/lab-03-fs-async#readme"
+}
